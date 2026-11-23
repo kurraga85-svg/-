@@ -1,0 +1,13 @@
+{
+  "name": "git-merge-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Консольный калькулятор на TypeScript для лабораторной работы по Git",
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
